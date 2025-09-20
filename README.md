@@ -1,4 +1,4 @@
-# 🏥 AI-MedVision: Pneumonia Detection System
+# 🌸 AI MedVision: Pneumonia Detection System
 
 <div align="center">
 
@@ -7,26 +7,26 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![AI](https://img.shields.io/badge/AI-Medical%20Diagnosis-purple.svg)](https://github.com)
 
-**Revolutionary AI-powered chest X-ray analysis for instant pneumonia detection**
+**AI-powered chest X-ray analysis for instant pneumonia detection**
 
-*Harnessing the power of deep learning to provide healthcare professionals with rapid, accurate diagnostic assistance*
+*Using deep learning to provide healthcare professionals with accurate diagnostic assistance*
 
 </div>
 
 ---
 
-## 🚀 **Overview**
+## 🎀 **Overview**
 
-AI-MedVision is a cutting-edge medical imaging AI system that leverages state-of-the-art EfficientNet architecture to analyze chest X-ray images and provide instant, high-accuracy pneumonia detection. Built for healthcare professionals, researchers, and medical students, this system delivers **sub-second inference times** with **94%+ accuracy**.
+AI MedVision is a medical imaging AI system that uses EfficientNet architecture to analyze chest X-ray images and provide high-accuracy pneumonia detection. Built for healthcare professionals, researchers, and medical students, this delivers **sub-second inference times** with **94%+ accuracy**.
 
-### ⚡ **Key Highlights**
+### 🍥 **Key Highlights**
 - **Lightning Fast**: 0.17-second inference on Apple Silicon
 - **Clinical Accuracy**: 94%+ precision in pneumonia detection
 - **User-Friendly**: Intuitive GUI with one-click analysis
 - **Production Ready**: Optimized for real-world deployment
 
 
-## 🏗️ **Architecture**
+## 🌷 **Architecture**
 
 ```
 AI-MedVision/
@@ -40,9 +40,9 @@ AI-MedVision/
 └─ 📖 README.md                 # Documentation
 ```
 
-## ⚡ **Quick Start**
+## 🐇་༘ **Quick Start**
 
-### 🎯 **One-Command Setup**
+### 🦩 **One-Command Setup**
 
 ```bash
 # Clone and run in 30 seconds
@@ -52,18 +52,18 @@ pip install -r requirements.txt
 python ai_medvision.py
 ```
 
-### 🖥️ **Professional Diagnostic Interface**
+### 🌷 **Professional Diagnostic Interface**
 
 Launch the advanced diagnostic interface and experience:
 
-1. **🚀 Instant Model Loading** - Pre-trained EfficientNet-B0 ready in seconds
-2. **📸 Drag & Drop Upload** - Support for JPG, JPEG, PNG formats  
-3. **⚡ Real-Time Analysis** - Get results in under 0.2 seconds
-4. **📊 Confidence Scoring** - Detailed probability breakdown
+1. ** Instant Model Loading** - Pre-trained EfficientNet-B0 ready in seconds
+2. ** Drag & Drop Upload** - Support for JPG, JPEG, PNG formats  
+3. ** Real-Time Analysis** - Get results in under 0.2 seconds
+4. ** Confidence Scoring** - Detailed probability breakdown
 
 ```
 ┌─────────────────────────────────────┐
-│  🏥 AI-MedVision Diagnostic Suite   │
+│  🌸 AI-MedVision Diagnostic Suite   │
 ├─────────────────────────────────────┤
 │  [Load Model] ✅ Ready              │
 │  [Upload Image] 📸 Select X-ray     │
@@ -72,28 +72,29 @@ Launch the advanced diagnostic interface and experience:
 │  Result: NORMAL (94.2%) ✅         │
 └─────────────────────────────────────┘
 ```
+<img width="1046" height="710" alt="Screenshot 2025-09-20 at 2 56 08 PM" src="https://github.com/user-attachments/assets/df7c4c24-cadf-4930-89ab-b2486d744002" />
 
-## 🔬 **Advanced Technical Specifications**
+## 🩰 **Advanced Technical Specifications**
 
 ### 🧠 **Neural Network Architecture**
-- **Model**: EfficientNet-B0 (State-of-the-art CNN architecture)
+- **Model**: EfficientNet-B0 (CNN architecture)
 - **Parameters**: 5.3M optimized weights
 - **Input Resolution**: 224×224 pixels (medical imaging standard)
 - **Precision**: Mixed-precision inference for maximum speed
 
-### ⚡ **Performance Benchmarks**
+### 🩷 **Performance Benchmarks**
 - **Inference Speed**: 0.17s average (Apple Silicon M1/M2)
 - **Accuracy**: 94.2% on clinical validation set
 - **Memory Usage**: <500MB RAM during inference
 - **GPU Acceleration**: Native Apple Metal Performance Shaders (MPS)
 
-### 🛠️ **Technology Stack**
+### ✨ **Technology Stack**
 - **Deep Learning**: PyTorch 2.7+ with MPS optimization
 - **Interface**: CustomTkinter (modern, responsive GUI)
 - **Image Processing**: PIL with EXIF orientation handling
 - **Architecture**: Modular design for easy deployment
 
-## 📈 **Performance Metrics**
+## **Performance Metrics**
 
 | Metric | Value | Industry Standard |
 |--------|-------|-------------------|
@@ -103,15 +104,15 @@ Launch the advanced diagnostic interface and experience:
 | **Recall** | 94.6% | >90% ✅ |
 | **F1-Score** | 94.2% | >90% ✅ |
 
-## 🎯 **Use Cases**
+## **Use Cases**
 
-### 🏥 **Healthcare Professionals**
+### **Healthcare Professionals**
 - Rapid preliminary screening
 - Second opinion validation
 - Medical education and training
 - Research and clinical studies
 
-### 🎓 **Academic & Research**
+### **Academic & Research**
 - Computer vision research
 - Medical AI development
 - Algorithm benchmarking
@@ -121,26 +122,15 @@ Launch the advanced diagnostic interface and experience:
 
 <div align="center">
 
-**🚨 IMPORTANT MEDICAL NOTICE**
+** IMPORTANT MEDICAL NOTICE**
 
 </div>
 
 This AI system is designed for **educational, research, and preliminary screening purposes only**. It should **never replace professional medical diagnosis** or be used as the sole basis for clinical decision-making.
 
-- ✅ **Appropriate for**: Research, education, preliminary screening
-- ❌ **Not suitable for**: Final diagnosis, treatment decisions, emergency care
-- 🔍 **Always consult**: Licensed healthcare professionals for medical decisions
+- **Appropriate for**: Research, education, preliminary screening
+- **Not suitable for**: Final diagnosis, treatment decisions, emergency care
+- **Always consult**: Licensed healthcare professionals for medical decisions
 
----
 
-<div align="center">
-
-**🌟 Star this repository if AI-MedVision helps with your medical imaging research!**
-
-[![GitHub stars](https://img.shields.io/github/stars/hinnazeejah/ai-pneumonia-detection?style=social)](https://github.com/hinnazeejah/ai-pneumonia-detection)
-[![GitHub forks](https://img.shields.io/github/forks/hinnazeejah/ai-pneumonia-detection?style=social)](https://github.com/hinnazeejah/ai-pneumonia-detection)
-
-*Empowering healthcare with AI-driven diagnostic assistance*
-
-</div>
 
