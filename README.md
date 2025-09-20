@@ -46,8 +46,8 @@ AI-MedVision/
 
 ```bash
 # Clone and run in 30 seconds
-git clone <your-repo-url> AI-MedVision
-cd AI-MedVision
+git clone https://github.com/hinnazeejah/ai-pneumonia-detection.git
+cd ai-pneumonia-detection
 pip install -r requirements.txt
 python ai_medvision.py
 ```
@@ -137,8 +137,8 @@ This AI system is designed for **educational, research, and preliminary screenin
 
 **🌟 Star this repository if AI-MedVision helps with your medical imaging research!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/AI-MedVision?style=social)](https://github.com/yourusername/AI-MedVision)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-MedVision?style=social)](https://github.com/yourusername/AI-MedVision)
+[![GitHub stars](https://img.shields.io/github/stars/hinnazeejah/ai-pneumonia-detection?style=social)](https://github.com/hinnazeejah/ai-pneumonia-detection)
+[![GitHub forks](https://img.shields.io/github/forks/hinnazeejah/ai-pneumonia-detection?style=social)](https://github.com/hinnazeejah/ai-pneumonia-detection)
 
 *Empowering healthcare with AI-driven diagnostic assistance*
 
