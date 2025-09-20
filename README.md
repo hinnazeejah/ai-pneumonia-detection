@@ -1,4 +1,4 @@
-# 🏥 AI-MedVision: Advanced Pneumonia Detection System
+# 🏥 AI-MedVision: Pneumonia Detection System
 
 <div align="center">
 
