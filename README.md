@@ -56,10 +56,10 @@ python ai_medvision.py
 
 Launch the advanced diagnostic interface and experience:
 
-1. ** Instant Model Loading** - Pre-trained EfficientNet-B0 ready in seconds
-2. ** Drag & Drop Upload** - Support for JPG, JPEG, PNG formats  
-3. ** Real-Time Analysis** - Get results in under 0.2 seconds
-4. ** Confidence Scoring** - Detailed probability breakdown
+1. Instant Model Loading - Pre-trained EfficientNet-B0 ready in seconds
+2. Drag & Drop Upload - Support for JPG, JPEG, PNG formats  
+3. Real-Time Analysis - Get results in under 0.2 seconds
+4. Confidence Scoring - Detailed probability breakdown
 
 ```
 ┌─────────────────────────────────────┐
